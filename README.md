@@ -22,3 +22,7 @@ The keylogger script runs until disabled.
 The server script runs until it is sent information and then the server ends.
 
 Your tracked keystrokes are saved under remote.txt in the path that your server script is running at.
+
+The code to automatically replicate the keylogger script in your startup folder is commented out.
+
+This is only currently made for windows.
